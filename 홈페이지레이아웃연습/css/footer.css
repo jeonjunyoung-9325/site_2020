@@ -1,0 +1,34 @@
+footer {
+    width: 100%;
+    min-width: 1300px;
+    height: 280px;
+    background-color: #141414;
+    color: #bcbcbc;
+}
+footer > .wrap {
+    width: 1066px;
+    margin: auto;
+    padding-top: 80px;
+    line-height: 25px;
+    font-size: 14px;
+}
+footer .author {
+    float: left;
+}
+footer .author > li:first-child {
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 20px;
+}
+footer .address {
+    float: left;
+    margin-left: 200px;
+}
+footer .menu {
+    float: right;
+}
+footer .menu > ul {
+    float: left;
+    margin-left: 70px;
+}
